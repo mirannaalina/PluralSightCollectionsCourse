@@ -1,3 +1,7 @@
+package cap1;
+
+import cap1.Person;
+
 import java.util.function.BinaryOperator;
 import java.util.function.Consumer;
 import java.util.function.Function;

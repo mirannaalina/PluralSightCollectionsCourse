@@ -1,4 +1,4 @@
-package cap2;
+package StreamsCollectionToStreams.cap2;
 
 public class Main2 {
 

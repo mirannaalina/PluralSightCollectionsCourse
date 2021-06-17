@@ -1,6 +1,4 @@
-package cap1;
-
-import cap1.Person;
+package StreamsCollectionToStreams.cap1;
 
 import java.util.function.BinaryOperator;
 import java.util.function.Consumer;

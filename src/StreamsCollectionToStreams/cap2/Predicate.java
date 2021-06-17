@@ -1,4 +1,4 @@
-package cap2;
+package StreamsCollectionToStreams.cap2;
 
 
 @FunctionalInterface

@@ -1,4 +1,4 @@
-package cap3;
+package StreamsCollectionToStreams.cap3;
 
 public class City {
 

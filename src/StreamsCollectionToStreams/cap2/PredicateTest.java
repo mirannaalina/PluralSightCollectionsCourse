@@ -1,6 +1,6 @@
-package cap2;
+package StreamsCollectionToStreams.cap2;
 
-import cap1.Person;
+import StreamsCollectionToStreams.cap1.Person;
 
 import java.util.function.Predicate;
 

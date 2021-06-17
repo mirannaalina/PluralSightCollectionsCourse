@@ -1,7 +1,6 @@
-package cap3;
+package StreamsCollectionToStreams.cap3;
 
-import cap1.Comparator;
-import cap1.Person;
+import StreamsCollectionToStreams.cap1.Person;
 
 import java.util.ArrayList;
 import java.util.HashMap;

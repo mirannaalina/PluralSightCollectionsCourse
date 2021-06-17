@@ -1,4 +1,4 @@
-package cap4;
+package StreamsCollectionToStreams.cap4;
 
 public class OptionalTest {
 

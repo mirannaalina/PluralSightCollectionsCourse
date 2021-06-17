@@ -1,6 +1,6 @@
-package cap4;
+package StreamsCollectionToStreams.cap4;
 
-import cap1.Person;
+import StreamsCollectionToStreams.cap1.Person;
 
 import java.util.ArrayList;
 import java.util.List;

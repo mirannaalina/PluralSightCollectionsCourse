@@ -1,4 +1,4 @@
-package cap1;
+package StreamsCollectionToStreams.cap1;
 
 import java.util.Comparator;
 
@@ -6,7 +6,7 @@ public class ComparatorRefactorUsingLambda {
 
     public static void main(String[] args) {
 
-        //cap1.Comparator
+        //StreamsCollectionToStreams.cap1.Comparator
 
         Comparator<String> comparator = new Comparator<String>() {
             @Override

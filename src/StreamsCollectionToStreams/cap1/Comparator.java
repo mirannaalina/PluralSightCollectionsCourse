@@ -1,4 +1,4 @@
-package cap1;
+package StreamsCollectionToStreams.cap1;
 
 
 import java.util.function.Function;
